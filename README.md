@@ -34,7 +34,7 @@
 
 ---------------------------------------------------------
 
-## 项目
+## 项目 常用指令
 ### git init 初始化仓库
 ### git add ./ 提交
 ### git commit -m '注释' 注释
@@ -42,6 +42,12 @@
 ### git fetch origin 更新远程仓库
 ### git push  origin 上传合并远程仓库
 ### git remote -v  查看本地 所有远程目录
+## 本地没有分支
+###  git checkout --track 远程跟踪分支 （remote / 分支名）
+##  本地已经创建了分支
+### git branch -u 远程跟踪分支 （remote / 分支名）
+
+
 
 
 
