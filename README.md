@@ -30,7 +30,7 @@
 ###  eg: git branch 'fenzhi' 07bcn11
 ###  git checkout -b ‘name’ 直接创建加切换到当前分支
 ###  git merge name 合并分支 eg： 注意合并的时候 请切回到他的 主分支（或者说是上一级）
-###   git config --global alias.allbranch 'log --oneline --decorate --graph -     -all' 自定义 产看所有分支
+###   git config --global alias.allbranch 'log --oneline --decorate --graph --all' 自定义 产看所有分支
 
 ---------------------------------------------------------
 
